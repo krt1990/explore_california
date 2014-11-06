@@ -1,0 +1,4 @@
+Junk
+This is the 2nd changed file.
+
+These changes will not be tracked anymore
